@@ -1,0 +1,9 @@
+title: Felipe Maciel Cardoso
+description: PhD candidate at  the University of Zaragoza. Human behavior. Data Science. Complex Systems.
+
+google_analytics:
+show_downloads: true
+theme: fmcardoso/page_theme
+
+gems:
+  - jekyll-mentions
