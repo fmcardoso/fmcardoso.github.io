@@ -1,9 +1,11 @@
 <header class="header">
+
+  <!-- <img src="{{ '/assets/img/nene2.jpg' | prepend: site.baseurl }}" id="header-img"> -->
 <div class="navigation">
 <a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
 <ul class="menu">
 <li class="menu__entry"><a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a></li>
-<li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a></li>
+<li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}">Publications</a></li>
 </ul>
 </div>
 <ul class="social-links">
@@ -22,5 +24,9 @@
 <i class="fa fa-linkedin"></i>
 </a>
 {% endif %}
+
+<a href="https://in.linkedin.com/in/{{ site.author.linkedin }}" class="social-links__entry" target="_blank">
+<i class="fa fa-scholar"></i>
+</a>
 </ul>
 </header>

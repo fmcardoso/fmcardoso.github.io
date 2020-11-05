@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is Pudhina
+title: Hi!
+subtitle: I am Felipe, currently a PhD candidate at the University of Zaragoza.
 sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
+<!-- <img src="{{ '/assets/img/nene.jpg' | prepend: site.baseurl }}" id="about-img"> -->
+
+  <img src="{{ '/assets/img/foto.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>Feel free to contact me.</p>
 </div>
