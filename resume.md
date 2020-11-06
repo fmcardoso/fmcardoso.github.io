@@ -4,10 +4,7 @@ title: Résumé
 <!-- subtitle: An awesome person -->
 ---
 
-<span style="float: right; "><a href="{{ '/assets/docs/cv.pdf' | prepend: site.baseurl }}"><strong>> Download CV</strong></a> </span>
-<br>
-
-<span style="float: center; "><strong>... under construction</strong></span>
+<span style="float: right; "><a href="{{ '/assets/docs/cv.pdf' | prepend: site.baseurl }}"><strong>> Download Detailed CV</strong></a> </span>
 <br>
 
 ## EDUCATION
@@ -72,8 +69,6 @@ Mobility scholarship for 6 months exchange at University of Zaragoza
 
 `Master Scholarship` - **CAPES** <span style="float: right; ">12/2014 - 02/2015</span>  
 
-`1st Place Competition` - **IHC+CLIHC 2011** <span style="float: right; ">2011</span>  
-1st Place on the Student Design Competition, Undergraduate Level.
 
 ## Skills
 
@@ -109,5 +104,22 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 - Etiam luctus ante quis est dictum faucibus.
 - Etiam luctus ante quis est dictum faucibus.
 - Etiam luctus ante quis est dictum faucibus.
+
+
+## Academic Activities
+
+`Teaching Assistant` - ***Algorithms and Computer Programming***  <span style="float: right; ">2015</span>  
+**University of Campinas, Brazil**  
+Laboratory classes, marking, assignment review, office hours, online support.
+
+`Invited Lecture` - ***Database course***  <span style="float: right; ">2015</span>  
+**University of Campinas, Brazil**  
+Two lectures about Complex Networks given to undergraduate and graduate students.
+
+`Examination Board Member` - ***Database course***  <span style="float: right; ">2015</span>  
+**University of Campinas, Brazil**  
+Two lectures about Complex Networks given to undergraduate and graduate students.
+
+\cventry{2016}{}{XI Theses and Dissertations Workshop - WTD}{IC - University of Campinas}{}{Evaluation of theses and dissertations proposals.}
 
 {:/comment}
