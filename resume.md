@@ -4,17 +4,88 @@ title: Résumé
 <!-- subtitle: An awesome person -->
 ---
 
-# Under construction
-
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/docs/cv.pdf' | prepend: site.baseurl }}"><strong>> Download CV</strong></a> </span>
 <br>
 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+<span style="float: center; "><strong>... under construction</strong></span>
+<br>
+
+## EDUCATION
+
+`PhD in Physics` <span style="float: right; ">`2017-2020` *(expected, defense 15/12/2020)*</span>  
+**University of Zaragoza, Spain**  
+Advisor: Prof. [Yamir Moreno](https://cosnet.bifi.es/people/yamir-moreno/)  
+Thesis: Strategic and Selfless Interactions: a study of human behaviour (***available soon***)
+
+`MSc in Computer Science` <span style="float: right; ">`2014-2016`</span>  
+**University of Campinas, Brazil**  
+Advisor: Prof. [André Santanchè](https://www.ic.unicamp.br/~santanch/)  
+Thesis: [Topical Homophily in an Online Social Network](http://repositorio.unicamp.br/jspui/handle/REPOSIP/320878)
+
+`Bachelor of Computer Science` <span style="float: right; ">`2008-2012`</span>  
+**University of Campinas, Brazil**  
+
+## Academic Positions
+
+`Research assistant` - **University of Zaragoza, Spain** <span style="float: right; ">02/2019 - 2020</span>  
+Development of platforms for socio-economic experiments. Execution and data analysis of experiments. Theoretical modelling in evolutionary game theory.
+
+`Research assistant` - **UC3M, Spain** <span style="float: right; ">02/2017 - 01/2019</span>  
+Development of platforms for socio-economic experiments. Execution and data analysis of experiments.
+
+## Professional Experience
+
+`Software Engineer` - **Kaffa Mobile, Brazil** <span style="float: right; ">10/2013 - 07/2014</span>  
+Development of mobile and web applications with Java and Lua for GIS. Requirements analysis directly with stakeholders.
+
+`Developer` - **MC1, Brazil** <span style="float: right; ">07/2012 - 10/2013</span>  
+Development of applications for Android and Windows mobile devices. Training of interns.
+
+`Intern` - **Kaffa Mobile, Brazil** <span style="float: right; ">5/2011 - 06/2012</span>  
+Development of applications with Java and Lua for mobile devices.
+
+`Intern` - **CPqD, Brazil** <span style="float: right; ">1/2011 - 05/2011</span>  
+Web Development with Java and Javascript.
+
+`Intern` - **Institute Of Economics - UNICAMP, Brasil** <span style="float: right; ">7/2009 - 1/2011</span>  
+Development of Web Applications using Java, Javascript, JSF, and SQL Server Database.
+
+`Intern` - **Celere IT, Brasil** <span style="float: right; ">4/2008 - 11/2008</span>  
+Development of Web Applications with C\#.NET,ASP.NET, and SQL Server Database.}
+
+## Referee experience
+
+PLoS ONE \
+Physical Review E \
+Chaos, Solutions & Fractals \
+Journal of Statistical Mechanics: Theory and Methods \
+Journal of Complex Networks
+
+## Scholarships
+
+`Master Scholarship` - **CAPES** <span style="float: right; ">07/2016</span>  
+
+`Master Scholarship` - **Microsoft Research - Open Data Scholarship** <span style="float: right; ">03/2016 - 06/2016</span>  
+
+`Research assistant` - **Santander International Mobility Scholarship** <span style="float: right; ">07/2015 - 02/2016</span>  
+Mobility scholarship for 6 months exchange at University of Zaragoza
+
+`Master Scholarship` - **CAPES** <span style="float: right; ">12/2014 - 02/2015</span>  
+
+`1st Place Competition` - **IHC+CLIHC 2011** <span style="float: right; ">2011</span>  
+1st Place on the Student Design Competition, Undergraduate Level.
+
+## Skills
+
+**Data Analysis** - Panel Data Analysis, Dynamic Panel Models, Data Visualization, Machine Learning Algorithms, Big Data, Time Series Analysis
+
+**Programing Languages**  Python, R, C++, Java, Lua, C, Javascript, C\#
+
+**Databases** PostgreSQL, MySQL, SQL Server, HSQLDB, SQLite
+
+{::comment}
 
 ### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
 
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
@@ -22,35 +93,13 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
 
-### EDUCATION
-
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
-
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
-
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.
-
-### EXPERIENCE
-
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+**Title** - Description - Place <span style="float: right; ">Time span</span>  
+Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
 
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
 
+``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
 
 ### RECOGNITION & INTERESTS
 
@@ -60,3 +109,5 @@ Technologies used
 - Etiam luctus ante quis est dictum faucibus.
 - Etiam luctus ante quis est dictum faucibus.
 - Etiam luctus ante quis est dictum faucibus.
+
+{:/comment}

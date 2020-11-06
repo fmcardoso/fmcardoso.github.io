@@ -8,8 +8,8 @@ sitemap:
 
 <!-- <img src="{{ '/assets/img/nene.jpg' | prepend: site.baseurl }}" id="about-img"> -->
 
-  <img src="{{ '/assets/img/foto.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/foto.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>Feel free to contact me.</p>
+	<p>Interested in: .....................</p>
 </div>
