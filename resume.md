@@ -22,15 +22,13 @@ Thesis: [Topical Homophily in an Online Social Network](http://repositorio.unica
 `Bachelor of Computer Science` <span style="float: right; ">`2008-2012`</span>  
 **University of Campinas, Brazil**  
 
-## Academic Positions
+## Academic & Professional Experience
 
 `Research assistant` - **University of Zaragoza, Spain** <span style="float: right; ">02/2019 - 2020</span>  
 Development of platforms for socio-economic experiments. Execution and data analysis of experiments. Theoretical modelling in evolutionary game theory.
 
 `Research assistant` - **UC3M, Spain** <span style="float: right; ">02/2017 - 01/2019</span>  
 Development of platforms for socio-economic experiments. Execution and data analysis of experiments.
-
-## Professional Experience
 
 `Software Engineer` - **Kaffa Mobile, Brazil** <span style="float: right; ">10/2013 - 07/2014</span>  
 Development of mobile and web applications with Java and Lua for GIS. Requirements analysis directly with stakeholders.
