@@ -180,8 +180,10 @@
   #about-img {
     border-radius: 13%;
     max-width: 150px;
-    margin: auto;
-    margin-bottom: 3%;
+    /* margin: auto; */
+    /* margin-bottom: 3%; */
+    margin: 3%;
+    float: left;
   }
 
   #describe-text {

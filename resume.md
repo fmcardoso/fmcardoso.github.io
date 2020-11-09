@@ -48,14 +48,6 @@ Development of Web Applications using Java, Javascript, JSF, and SQL Server Data
 `Intern` - **Celere IT, Brasil** <span style="float: right; ">4/2008 - 11/2008</span>  
 Development of Web Applications with C\#.NET,ASP.NET, and SQL Server Database.}
 
-## Referee experience
-
-PLoS ONE \
-Physical Review E \
-Chaos, Solutions & Fractals \
-Journal of Statistical Mechanics: Theory and Methods \
-Journal of Complex Networks
-
 ## Scholarships
 
 `Master Scholarship` - **CAPES** <span style="float: right; ">07/2016</span>  
@@ -67,6 +59,13 @@ Mobility scholarship for 6 months exchange at University of Zaragoza
 
 `Master Scholarship` - **CAPES** <span style="float: right; ">12/2014 - 02/2015</span>  
 
+## Referee experience
+
+PLoS ONE \
+Physical Review E \
+Chaos, Solutions & Fractals \
+Journal of Statistical Mechanics: Theory and Methods \
+Journal of Complex Networks
 
 ## Skills
 
