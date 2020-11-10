@@ -24,40 +24,40 @@ Thesis: [Topical Homophily in an Online Social Network](http://repositorio.unica
 
 ## Academic & Professional Experience
 
-`Research assistant` - **University of Zaragoza, Spain** <span style="float: right; ">02/2019 - 2020</span>  
+`Research assistant` - **University of Zaragoza, Spain** <span style="float: right; ">`02/2019 - 2020`</span>  
 Development of platforms for socio-economic experiments. Execution and data analysis of experiments. Theoretical modelling in evolutionary game theory.
 
-`Research assistant` - **UC3M, Spain** <span style="float: right; ">02/2017 - 01/2019</span>  
+`Research assistant` - **UC3M, Spain** <span style="float: right; ">`02/2017 - 01/2019`</span>  
 Development of platforms for socio-economic experiments. Execution and data analysis of experiments.
 
-`Software Engineer` - **Kaffa Mobile, Brazil** <span style="float: right; ">10/2013 - 07/2014</span>  
+`Software Engineer` - **Kaffa Mobile, Brazil** <span style="float: right; ">`10/2013 - 07/2014`</span>  
 Development of mobile and web applications with Java and Lua for GIS. Requirements analysis directly with stakeholders.
 
-`Developer` - **MC1, Brazil** <span style="float: right; ">07/2012 - 10/2013</span>  
+`Developer` - **MC1, Brazil** <span style="float: right; ">`07/2012 - 10/2013`</span>  
 Development of applications for Android and Windows mobile devices. Training of interns.
 
-`Intern` - **Kaffa Mobile, Brazil** <span style="float: right; ">5/2011 - 06/2012</span>  
+`Intern` - **Kaffa Mobile, Brazil** <span style="float: right; ">`5/2011 - 06/2012`</span>  
 Development of applications with Java and Lua for mobile devices.
 
-`Intern` - **CPqD, Brazil** <span style="float: right; ">1/2011 - 05/2011</span>  
+`Intern` - **CPqD, Brazil** <span style="float: right; ">`1/2011 - 05/2011`</span>  
 Web Development with Java and Javascript.
 
-`Intern` - **Institute Of Economics - UNICAMP, Brasil** <span style="float: right; ">7/2009 - 1/2011</span>  
+`Intern` - **Institute Of Economics - UNICAMP, Brasil** <span style="float: right; ">`7/2009 - 1/2011`</span>  
 Development of Web Applications using Java, Javascript, JSF, and SQL Server Database.
 
-`Intern` - **Celere IT, Brasil** <span style="float: right; ">4/2008 - 11/2008</span>  
+`Intern` - **Celere IT, Brasil** <span style="float: right; ">`4/2008 - 11/2008`</span>  
 Development of Web Applications with C\#.NET,ASP.NET, and SQL Server Database.}
 
 ## Scholarships
 
-`Master Scholarship` - **CAPES** <span style="float: right; ">07/2016</span>  
+`Master Scholarship` - **CAPES** <span style="float: right; ">`07/2016`</span>  
 
-`Master Scholarship` - **Microsoft Research - Open Data Scholarship** <span style="float: right; ">03/2016 - 06/2016</span>  
+`Master Scholarship` - **Microsoft Research - Open Data Scholarship** <span style="float: right; ">`03/2016 - 06/2016`</span>  
 
-`Research assistant` - **Santander International Mobility Scholarship** <span style="float: right; ">07/2015 - 02/2016</span>  
+`Research assistant` - **Santander International Mobility Scholarship** <span style="float: right; ">`07/2015 - 02/2016`</span>  
 Mobility scholarship for 6 months exchange at University of Zaragoza
 
-`Master Scholarship` - **CAPES** <span style="float: right; ">12/2014 - 02/2015</span>  
+`Master Scholarship` - **CAPES** <span style="float: right; ">`12/2014 - 02/2015`</span>  
 
 ## Referee experience
 
@@ -105,15 +105,15 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 
 ## Academic Activities
 
-`Teaching Assistant` - ***Algorithms and Computer Programming***  <span style="float: right; ">2015</span>  
+`Teaching Assistant` - ***Algorithms and Computer Programming***  <span style="float: right; ">`2015`</span>  
 **University of Campinas, Brazil**  
 Laboratory classes, marking, assignment review, office hours, online support.
 
-`Invited Lecture` - ***Database course***  <span style="float: right; ">2015</span>  
+`Invited Lecture` - ***Database course***  <span style="float: right; ">`2015`</span>  
 **University of Campinas, Brazil**  
 Two lectures about Complex Networks given to undergraduate and graduate students.
 
-`Examination Board Member` - ***Database course***  <span style="float: right; ">2015</span>  
+`Examination Board Member` - ***Database course***  <span style="float: right; ">`2015`</span>  
 **University of Campinas, Brazil**  
 Two lectures about Complex Networks given to undergraduate and graduate students.
 
