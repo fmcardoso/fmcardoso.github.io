@@ -4,7 +4,10 @@
     font-family: 'Quicksand', sans-serif;
     font-size: 100%;
     color: #012;
-    background-color: #FFF; }
+    background-color: #FFF; 
+    margin-right: 5px;
+    margin-left: 5px;
+  }
 
   a {
     color: #57A;
