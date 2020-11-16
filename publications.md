@@ -35,7 +35,7 @@ L. Marenco, H.A. Carmona, `F. Maciel Cardoso`, J.S. Andrade Jr, and C.L. Cesar
 
 1. `Dynamics of heuristics selection for cooperative behaviour`  
 `F. Maciel Cardoso`, C. Gracia-Lázaro, Y. Moreno  
-*under review*  
+**New journal of Physics**, accepted  
 <i class="ai ai-arxiv"></i> [2009.07791](https://arxiv.org/abs/2009.07791)  
 <i class="fa fa-github"></i> [code](https://github.com/fmcardoso/heuristics_selection)
 
