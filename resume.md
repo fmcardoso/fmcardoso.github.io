@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Résumé
-<!-- subtitle: An awesome person -->
+<!-- subtitle: CV -->
 ---
 
-<span style="float: right; "><a href="{{ '/assets/docs/cv.pdf' | prepend: site.baseurl }}"><strong>> Download Detailed CV</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/docs/cv_felipe_maciel_cardoso.pdf' | prepend: site.baseurl }}"><strong>> Download Detailed CV</strong></a> </span>
 <br>
 
 ## EDUCATION
