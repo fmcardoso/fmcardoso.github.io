@@ -7,6 +7,16 @@ title: Résumé
 <span style="float: right; "><a href="{{ '/assets/docs/cv_felipe_maciel_cardoso.pdf' | prepend: site.baseurl }}"><strong>> Download Detailed CV</strong></a> </span>
 <br>
 
+## Skills
+
+**Data Analysis** - Full-Stack Big Data Analysis, Time Series Analysis, Panel Data Analysis, Dynamic Panel Models, Neural Networks, LSTM Networks, Data Visualization, Clustering Algorithms
+
+**Programing Languages**  Python, R, C++, Java, Lua, C,  C\#, Javascript
+
+**Research Tools** NumPy, SciPy, R libraries (*lme4, plm, ggplot2, sandwich,...*), Scikit-learn, Pandas, igraph, graph-tool, NLTK
+
+**Databases** PostgreSQL, MySQL, SQL Server, HSQLDB, SQLite
+
 ## EDUCATION
 
 `PhD in Physics` <span style="float: right; ">`2017-2020` *(expected, defense 15/12/2020)*</span>  
@@ -25,19 +35,19 @@ Thesis: [Topical Homophily in an Online Social Network](http://repositorio.unica
 ## Academic & Professional Experience
 
 `Research assistant` - **University of Zaragoza, Spain** <span style="float: right; ">`02/2019 - 2020`</span>  
-Development of platforms for socio-economic experiments. Execution and data analysis of experiments. Theoretical modelling in evolutionary game theory.
+Development of platforms for socio-economic experiments using Django/Python and PostgreSQL databases. Execution and data analysis of experiments using econometric models and machine learning algorithms. Theoretical modelling in evolutionary game theory.
 
 `Research assistant` - **UC3M, Spain** <span style="float: right; ">`02/2017 - 01/2019`</span>  
-Development of platforms for socio-economic experiments. Execution and data analysis of experiments.
+Development of platforms for socio-economic experiments using Django/Python and PostgreSQL database. Execution and data analysis of experiments using econometric models and machine learning algorithms.
 
 `Software Engineer` - **Kaffa Mobile, Brazil** <span style="float: right; ">`10/2013 - 07/2014`</span>  
-Development of mobile and web applications with Java and Lua for GIS. Requirements analysis directly with stakeholders.
+Development of mobile and web applications with Java and Lua for GIS. SQL Server, HSQLDB and H2 databases. Requirements analysis directly with stakeholders.
 
 `Developer` - **MC1, Brazil** <span style="float: right; ">`07/2012 - 10/2013`</span>  
-Development of applications for Android and Windows mobile devices. Training of interns.
+Development of applications for Android and Windows mobile devices. Ported Windows Mobile (C\#) code to Android (Java).  SQL Server and SQLite databases. Training of interns.  
 
 `Intern` - **Kaffa Mobile, Brazil** <span style="float: right; ">`5/2011 - 06/2012`</span>  
-Development of applications with Java and Lua for mobile devices.
+Development of applications with Java and Lua for mobile devices. SQL Server, HSQLDB and H2 databases.
 
 `Intern` - **CPqD, Brazil** <span style="float: right; ">`1/2011 - 05/2011`</span>  
 Web Development with Java and Javascript.
@@ -66,14 +76,6 @@ Physical Review E \
 Chaos, Solutions & Fractals \
 Journal of Statistical Mechanics: Theory and Methods \
 Journal of Complex Networks
-
-## Skills
-
-**Data Analysis** - Panel Data Analysis, Dynamic Panel Models, Data Visualization, Machine Learning Algorithms, Big Data, Time Series Analysis
-
-**Programing Languages**  Python, R, C++, Java, Lua, C, Javascript, C\#
-
-**Databases** PostgreSQL, MySQL, SQL Server, HSQLDB, SQLite
 
 {::comment}
 
