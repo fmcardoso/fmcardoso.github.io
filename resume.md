@@ -56,7 +56,7 @@ Web Development with Java and Javascript.
 Development of Web Applications using Java, Javascript, JSF, and SQL Server Database.
 
 `Intern` - **Celere IT, Brasil** <span style="float: right; ">`4/2008 - 11/2008`</span>  
-Development of Web Applications with C\#.NET,ASP.NET, and SQL Server Database.}
+Development of Web Applications with C\#.NET,ASP.NET, and SQL Server Database.
 
 ## Scholarships
 
