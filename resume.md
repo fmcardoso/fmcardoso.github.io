@@ -19,7 +19,7 @@ title: Résumé
 
 ## EDUCATION
 
-`PhD in Physics` <span style="float: right; ">`2017-2020` *(expected, defense 15/12/2020)*</span>  
+`PhD in Physics` <span style="float: right; ">`2017-2020` *(expected, defense 22/12/2020)*</span>  
 **University of Zaragoza, Spain**  
 Advisors: Prof. [Yamir Moreno](https://cosnet.bifi.es/people/yamir-moreno/) & Dr. [Carlos Grácia Lázaro](https://scholar.google.com/citations?user=YPBNyA4AAAAJ&hl=es)  
 Thesis: Strategic and Selfless Interactions: a study of human behaviour (***available soon***)
