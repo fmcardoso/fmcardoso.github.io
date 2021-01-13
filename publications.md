@@ -6,6 +6,12 @@ subtitle:
 
 ## Published Papers
 
+1. `Dynamics of heuristics selection for cooperative behaviour`  
+`F. Maciel Cardoso`, C. Gracia-Lázaro, Y. Moreno  
+**New journal of Physics**, December 2020  
+<i class="ai ai-doi"></i> [10.1088/1367-2630/abcb70](https://doi.org/10.1088/1367-2630/abcb70)  
+<i class="fa fa-github"></i> [code](https://github.com/fmcardoso/heuristics_selection)
+
 1. `Effect of network topology and node centrality on trading`  
 `F. Maciel Cardoso`, C. Gracia-Lázaro, F. Moisan, S. Goyal, A. Sánchez, and Y. Moreno  
 **Scientific Reports**, July 2020  
@@ -33,15 +39,11 @@ L. Marenco, H.A. Carmona, `F. Maciel Cardoso`, J.S. Andrade Jr, and C.L. Cesar
 
 ## Papers under review & in preparation
 
-1. `Dynamics of heuristics selection for cooperative behaviour`  
-`F. Maciel Cardoso`, C. Gracia-Lázaro, Y. Moreno  
-**New journal of Physics**, accepted  
-<i class="ai ai-arxiv"></i> [2009.07791](https://arxiv.org/abs/2009.07791)  
-<i class="fa fa-github"></i> [code](https://github.com/fmcardoso/heuristics_selection)
+
 
 1. `Framing in multiple public goods games and donation to charities`  
 `F. Maciel Cardoso`, S. Meloni, C. Gracia-Lázaro, A. Antonioni, José A. Cuesta, A. Sánchez, and Y. Moreno  
-*under review*  
+**Royal Society Open Science**, accepted
 
 1. `How social network algorithms can influence opinion polarization`  
 H. Ferraz de Arruda, `F. Maciel Cardoso`, G. Ferraz de Arruda, A.R. Hernández, L. da F. Costa, and Y. Moreno  
