@@ -45,9 +45,9 @@ L. Marenco, H.A. Carmona, `F. Maciel Cardoso`, J.S. Andrade Jr, and C.L. Cesar
 `F. Maciel Cardoso`, S. Meloni, C. Gracia-Lázaro, A. Antonioni, José A. Cuesta, A. Sánchez, and Y. Moreno  
 **Royal Society Open Science**, accepted
 
-1. `How social network algorithms can influence opinion polarization`  
+1. `Modeling how social network algorithms can influence opinion polarization`  
 H. Ferraz de Arruda, `F. Maciel Cardoso`, G. Ferraz de Arruda, A.R. Hernández, L. da F. Costa, and Y. Moreno  
-*in preparation*  
+<i class="ai ai-arxiv"></i> [2102.00099](https://arxiv.org/abs/2102.00099)  
 
 1. `Targets and biases: a collective-risk social dilemma between two countries`  
 `F. Maciel Cardoso`, M. Jusup, C. Gracia-Lázaro, Z. Wang, A. Sánchez, and Y. Moreno  

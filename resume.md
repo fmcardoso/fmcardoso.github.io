@@ -4,16 +4,20 @@ title: Résumé
 <!-- subtitle: CV -->
 ---
 
-<span style="float: right; "><a href="{{ '/assets/docs/cv_felipe_maciel_cardoso.pdf' | prepend: site.baseurl }}"><strong>> Download Detailed CV</strong></a> </span>
+<span style="float: right; ">
+<!-- <a href="{{ '/assets/docs/cv_felipe_maciel_cardoso.pdf' | prepend: site.baseurl }}"><strong>> Download CV</strong></a> -->
+<button name="button"><a href="{{ '/assets/docs/cv_felipe_maciel_cardoso.pdf' | prepend: site.baseurl }}"><strong>> Download CV</strong></a> </button>
+ </span>
+
 <br>
 
 ## Skills
 
-**Data Analysis** - Full-Stack Big Data Analysis, Time Series Analysis, Panel Data Analysis, Dynamic Panel Models, Neural Networks, LSTM Networks, Data Visualization, Clustering Algorithms
+**Data Science** - Full-Stack Big Data Analysis, Statistical Inference and Regression (OLS, GLM, Mixed Models), Time Series & Panel Data Analysis, Neural Networks, LSTM Networks, Data Visualization, Clustering Algorithms
 
-**Programing Languages**  Python, R, C++, Java, Lua, C,  C\#, Javascript
+**Programing Languages**  Python, R, C++, Java, Lua, C,  C\#, JavaScript
 
-**Research Tools** NumPy, SciPy, R libraries (*lme4, plm, ggplot2, sandwich,...*), Scikit-learn, Pandas, igraph, graph-tool, NLTK
+**Research Tools** R libraries (*caret, lme4, plm, tidyverse,...*), NumPy, SciPy, Scikit-learn, Pandas, igraph, graph-tool, NLTK
 
 **Databases** PostgreSQL, MySQL, SQL Server, HSQLDB, SQLite
 
@@ -44,26 +48,26 @@ Development of platforms for socio-economic experiments using Django/Python and 
 `Software Engineer` - **Kaffa Mobile, Brazil** <span style="float: right; ">`10/2013 - 07/2014`</span>  
 Development of mobile and web applications with Java and Lua for GIS. SQL Server, HSQLDB and H2 databases. Requirements analysis directly with stakeholders.
 
-`Developer` - **MC1, Brazil** <span style="float: right; ">`07/2012 - 10/2013`</span>  
+`Software Developer` - **MC1, Brazil** <span style="float: right; ">`07/2012 - 10/2013`</span>  
 Development of applications for Android and Windows mobile devices. Ported Windows Mobile (C\#) code to Android (Java).  SQL Server and SQLite databases. Training of interns.  
 
-`Intern` - **Kaffa Mobile, Brazil** <span style="float: right; ">`5/2011 - 06/2012`</span>  
+`Software Engineer` - **Kaffa Mobile, Brazil** <span style="float: right; ">`5/2011 - 06/2012`</span>  
 Development of applications with Java and Lua for mobile devices. SQL Server, HSQLDB and H2 databases.
 
-`Intern` - **CPqD, Brazil** <span style="float: right; ">`1/2011 - 05/2011`</span>  
+`Web Developer` - **CPqD, Brazil** <span style="float: right; ">`1/2011 - 05/2011`</span>  
 Web Development with Java and Javascript.
 
-`Intern` - **Institute Of Economics - UNICAMP, Brasil** <span style="float: right; ">`7/2009 - 1/2011`</span>  
+`Web Developer` - **Institute Of Economics - UNICAMP, Brasil** <span style="float: right; ">`7/2009 - 1/2011`</span>  
 Development of Web Applications using Java, Javascript, JSF, and SQL Server Database.
 
-`Intern` - **Celere IT, Brasil** <span style="float: right; ">`4/2008 - 11/2008`</span>  
+`Web Developer` - **Celere IT, Brasil** <span style="float: right; ">`4/2008 - 11/2008`</span>  
 Development of Web Applications with C\#.NET,ASP.NET, and SQL Server Database.
 
 ## Scholarships
 
 `Master Scholarship` - **CAPES** <span style="float: right; ">`07/2016`</span>  
 
-`Master Scholarship` - **Microsoft Research - Open Data Scholarship** <span style="float: right; ">`03/2016 - 06/2016`</span>  
+`Master Scholarship` - **Microsoft Research - Open Data Scholarship** <span style="float: right; ">`02/2015 - 06/2016`</span>  
 
 `Research assistant` - **Santander International Mobility Scholarship** <span style="float: right; ">`07/2015 - 02/2016`</span>  
 Mobility scholarship for 6 months exchange at University of Zaragoza
