@@ -45,7 +45,7 @@ Development of platforms for socio-economic experiments using Django/Python and 
 `Research assistant` - **UC3M, Spain** <span style="float: right; ">`02/2017 - 01/2019`</span>  
 Development of platforms for socio-economic experiments using Django/Python and PostgreSQL database. Execution and data analysis of experiments using econometric models and machine learning algorithms.
 
-`Software Engineer` - **Kaffa Mobile, Brazil** <span style="float: right; ">`10/2013 - 07/2014`</span>  
+`Software Engineer` - **Kaffa Mobile, Brazil** <span style="float: right; ">`10/2013 - 08/2014`</span>  
 Development of mobile and web applications with Java and Lua for GIS. SQL Server, HSQLDB and H2 databases. Requirements analysis directly with stakeholders.
 
 `Software Developer` - **MC1, Brazil** <span style="float: right; ">`07/2012 - 10/2013`</span>  
