@@ -39,7 +39,7 @@ Thesis: [Topical Homophily in an Online Social Network](http://repositorio.unica
 
 ## Academic & Professional Experience
 
-`Research assistant` - **University of Zaragoza, Spain** <span style="float: right; ">`02/2019 - 2020`</span>  
+`Research assistant` - **University of Zaragoza, Spain** <span style="float: right; ">`02/2019 - 01/2021`</span>  
 Development of platforms for socio-economic experiments using Django/Python and PostgreSQL databases. Execution and data analysis of experiments using econometric models and machine learning algorithms. Theoretical modelling in evolutionary game theory.
 
 `Research assistant` - **UC3M, Spain** <span style="float: right; ">`02/2017 - 01/2019`</span>  
